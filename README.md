@@ -39,7 +39,7 @@ Normalize uma tabela na terceira forma normal e acesse as informações desta ta
 1. Clone o repositório
   * `git clone git@github.com:Lenakirara/One_For_All.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-mysql-one-for-all`
+    * `cd One_For_All`
 
 2. Instale as dependências
   * `npm install`
